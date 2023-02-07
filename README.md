@@ -1,7 +1,8 @@
 # biji
 ## 测试
 
-````sequencetitle: 序列图的展示
+```sequence
+title: 序列图的展示
 张三-->李四:李四，吃了吗？
 张三-->>李四:李四，吃了吗？
 Note right of 李四:在李四的右边(我是谁在哪里)
